@@ -120,7 +120,7 @@ class Snappy_Utils(object):
     
 # input files can be .zip or unzpipped folders
 if __name__ == "__main__":
-    file_path = "C:\\Users\\Owner\\Documents\\GEOM4008"
+    file_path = "PATH\\TO\\YOUR\\FILES"
 
     #should be "after" image
     master_file = os.path.join(file_path,'S1A_IW_SLC__1SDV_20161115T072214_20161115T072244_013949_016775_84CF.zip')
