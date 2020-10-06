@@ -1,0 +1,13 @@
+name: snappy_env
+channels:
+- conda-forge
+- defaults
+dependencies:
+  - python=3.6
+  - snappy
+  - pip
+  - pip:
+    - ctypes_snappy
+
+
+    
